@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby + GraphQL + NetlifyCMS`,
+    title: `Gatsby + NetlifyCMS`,
     author: {
       name: `Zaizi Ltd`,
-      summary: `Kings House, 174 Hammersmith Rd, London W6 7JP`,
+      summary: `Kings House, 174 Hammersmith Rd, W6 7JP`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://localhost:8000/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Zaizi`,
     },
   },
   plugins: [
