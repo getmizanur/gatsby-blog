@@ -25,13 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus leo
 * Icing Sugar
 * Cocoa Powder
 
-
-
 ## Instructions
 
 1. Donec sit amet enim nulla. In id orci felis. Ut venenatis lectus tortor, eget eleifend purus pretium ac. Aliquam porta mauris tempor urna convallis, ac accumsan felis pharetra. Mauris ornare tincidunt lectus a efficitur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vulputate nec augue ac scelerisque. In hac habitasse platea dictumst. Cras a mattis massa. Ut ut purus dui. Vivamus ultrices eros mauris, sit amet efficitur metus interdum eget. Curabitur imperdiet justo a maximus convallis.
-
 2. Cras a mattis massa. Ut ut purus dui. Vivamus ultrices eros mauris, sit amet efficitur metus interdum eget. Curabitur imperdiet justo a maximus convallis.
-
 3. Cras a mattis massa. Ut ut purus dui. Vivamus ultrices eros mauris, sit amet efficitur metus interdum eget. Curabitur imperdiet justo a maximus convallis.Mauris ornare tincidunt lectus a efficitur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vulputate nec augue ac scelerisque. In hac habitasse platea dictumst.
-
