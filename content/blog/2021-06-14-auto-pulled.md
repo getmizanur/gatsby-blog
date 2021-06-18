@@ -1,8 +1,6 @@
 ---
 layout: blog
-title: auto-pulled
+title: The meaning of life
 date: 2021-06-14T09:38:30.455Z
 ---
-This post was auto-pulled successfully!
-
-Cron Job 234
+To be continued...
